@@ -6,7 +6,7 @@ Resume Screener AI is an intelligent tool designed to parse resumes, extract rel
 
 **Developer Info**
 Amit Kumar
-AI Developer
+AI Developer(python)
 📞 Contact – 7087376726
 📧 Email – **amitrajput6726@gmail.com**
 🔗 LinkedIn – [https://www.linkedin.com/in/amit-kumar-89b7b4218/](https://www.linkedin.com/in/amit-kumar-89b7b4218/ "HIRE ME")
