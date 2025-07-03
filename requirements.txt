@@ -1,0 +1,11 @@
+streamlit
+pytesseract
+easyocr
+opencv-python>=4.8.0
+craft-text-detector
+scikit-learn
+pandas
+pdf2image
+joblib
+numpy>=1.24
+pillow
